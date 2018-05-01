@@ -30,4 +30,4 @@ Find out the demo app and dataset from [Here](./docs/sample/).
 ## License & Copyright
  The software is made available "AS IS" without any warranty of any kind under the MIT License (MIT).
 
- See [Additional license information for this solution.](LICENSE.md)
+ See [Additional license information for this solution.](LICENSE)
